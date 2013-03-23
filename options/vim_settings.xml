@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="VimSettings">
+    <state enabled="true" keymap="Mac OS X 10.5+" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/views.py" timestamp="1363789439813">
+        <mark key="'" line="21" column="35" />
+        <mark key="]" line="63" column="19" />
+        <mark key="^" line="63" column="19" />
+        <mark key="." line="63" column="19" />
+        <mark key="[" line="63" column="15" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mysite/polls/admin.py" timestamp="1363091520380">
+        <mark key="'" line="25" column="0" />
+        <mark key="]" line="22" column="29" />
+        <mark key="^" line="22" column="29" />
+        <mark key="." line="22" column="29" />
+        <mark key="[" line="21" column="32" />
+      </file>
+      <file name="/fragment.py" timestamp="1363415924500">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mysite/mysite/urls.py" timestamp="1363092476616">
+        <mark key="'" line="18" column="0" />
+        <mark key="]" line="16" column="43" />
+        <mark key="." line="16" column="0" />
+        <mark key="[" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/admin.py" timestamp="1363414086595">
+        <mark key="]" line="2" column="34" />
+        <mark key="^" line="8" column="27" />
+        <mark key="." line="2" column="34" />
+        <mark key="[" line="2" column="34" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1364007752732">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mysite/polls/url.py" timestamp="1363092421404">
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="[" line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mysite/polls/urls.py" timestamp="1363094907834">
+        <mark key="]" line="14" column="80" />
+        <mark key="^" line="14" column="80" />
+        <mark key="." line="14" column="80" />
+        <mark key="[" line="7" column="22" />
+      </file>
+      <file name="/a.dummy" timestamp="1363189915248">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/mysite/polls/models.py" timestamp="1362929539541">
+        <mark key="]" line="12" column="74" />
+        <mark key="^" line="12" column="74" />
+        <mark key="." line="12" column="74" />
+        <mark key="[" line="12" column="32" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/episodeget/episodeget/urls.py" timestamp="1363413996996">
+        <mark key="]" line="18" column="36" />
+        <mark key="^" line="18" column="36" />
+        <mark key="." line="18" column="36" />
+        <mark key="[" line="18" column="26" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mysite/polls/models.py" timestamp="1363091450270">
+        <mark key="]" line="15" column="26" />
+        <mark key="^" line="15" column="68" />
+        <mark key="." line="15" column="26" />
+        <mark key="[" line="15" column="26" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/models.py" timestamp="1363789212739">
+        <mark key="]" line="64" column="17" />
+        <mark key="^" line="64" column="17" />
+        <mark key="." line="64" column="17" />
+        <mark key="[" line="64" column="12" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/episodeget/episodeget/settings.py" timestamp="1363273104737">
+        <mark key="'" line="13" column="29" />
+        <mark key="]" line="18" column="8" />
+        <mark key="^" line="18" column="8" />
+        <mark key="." line="18" column="8" />
+        <mark key="[" line="18" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/mysite/mysite/settings.py" timestamp="1363012033707">
+        <mark key="'" line="119" column="24" />
+        <mark key="]" line="121" column="19" />
+        <mark key="^" line="121" column="19" />
+        <mark key="." line="121" column="19" />
+        <mark key="[" line="121" column="20" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/episodeget/templates/feeds_analysis/get_ani_rss.html" timestamp="1363695316132">
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="[" line="8" column="28" />
+      </file>
+      <file name="/Python Console" timestamp="1363790769380">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mysite/polls/views.py" timestamp="1363099642736">
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="9" column="30" />
+        <mark key="." line="6" column="0" />
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mysite/mysite/settings.py" timestamp="1363012961734">
+        <mark key="]" line="120" column="4" />
+        <mark key="^" line="124" column="9" />
+        <mark key="." line="120" column="4" />
+        <mark key="[" line="120" column="4" />
+      </file>
+      <file name="/DB_ELEMENTS" timestamp="1363408247157">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="36" column="0" filename="$USER_HOME$/Documents/workspace/mysite/mysite/settings.py" />
+      <jump line="119" column="24" filename="$USER_HOME$/Documents/workspace/mysite/mysite/settings.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/PycharmProjects/mysite/polls/admin.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/mysite/mysite/urls.py" />
+      <jump line="13" column="29" filename="$USER_HOME$/PycharmProjects/episodeget/episodeget/settings.py" />
+      <jump line="29" column="18" filename="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/models.py" />
+      <jump line="23" column="51" filename="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/models.py" />
+      <jump line="10" column="4" filename="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/models.py" />
+      <jump line="32" column="22" filename="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/models.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/models.py" />
+      <jump line="9" column="21" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/os.py" />
+      <jump line="50" column="43" filename="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/models.py" />
+      <jump line="44" column="32" filename="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/models.py" />
+      <jump line="33" column="51" filename="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/models.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/models.py" />
+      <jump line="31" column="4" filename="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/models.py" />
+      <jump line="48" column="4" filename="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/models.py" />
+      <jump line="58" column="4" filename="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/models.py" />
+      <jump line="42" column="4" filename="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/models.py" />
+      <jump line="61" column="20" filename="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/models.py" />
+      <jump line="51" column="28" filename="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/models.py" />
+      <jump line="28" column="43" filename="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/models.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/models.py" />
+      <jump line="7" column="104" filename="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/views.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/views.py" />
+      <jump line="30" column="51" filename="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/models.py" />
+      <jump line="9" column="46" filename="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/views.py" />
+      <jump line="19" column="25" filename="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/views.py" />
+      <jump line="16" column="35" filename="$USER_HOME$/PycharmProjects/episodeget/feeds_analysis/views.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>0</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxlcGlzb2RlaWRcPg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>0</text>
+      </register>
+      <register name="3" type="4">
+        <text>flase</text>
+      </register>
+      <register name="2" type="4">
+        <text>false</text>
+      </register>
+      <register name="1" type="4">
+        <text>0</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZpcnN0X3Jlc3VsdCA9IHVybGxpYjIudXJsb3BlbignaHR0cDovL2FwaS5kb3ViYW4uY29tL3YyL21vdmllL3NlYXJjaD9xPSVzJyAlIHNlYXJjaF90aXRsZSkucmVhZCgpCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>)</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>a</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="9" type="4">
+        <text>(</text>
+      </register>
+      <register name="8" type="4">
+        <text>)</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxlcGlzb2RlaWRcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxlcGlzb2RlaWRcPg==</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>backends</entry>
+        <entry>Dou</entry>
+        <entry>sort</entry>
+        <entry encoding="base64">XDxGb3JlaWduS2V5XD4=</entry>
+        <entry encoding="base64">XDxTVFlMRV9DSE9JQ0VTXD4=</entry>
+        <entry encoding="base64">XDxzb3J0XD4=</entry>
+        <entry encoding="base64">XDxJbnRlZ2VyRmllbGRcPg==</entry>
+        <entry>For</entry>
+        <entry>valur</entry>
+        <entry>value</entry>
+        <entry encoding="base64">XDxzXD4=</entry>
+        <entry>hash</entry>
+        <entry encoding="base64">XDxlcGlzb2RlaWRcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q</entry>
+        <entry>vs</entry>
+        <entry>vsplit</entry>
+        <entry>vsp</entry>
+        <entry>sp</entry>
+        <entry>split</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+</application>
+

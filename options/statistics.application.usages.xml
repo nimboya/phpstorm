@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="vcs">
+      <project id="episodeget" values="Git" />
+    </group>
+    <group name="frameworks">
+      <project id="episodeget" values="django" />
+      <project id="mysite" values="django" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="episodeget" values="MySQL/5.1.59" />
+      <project id="mysite" values="MySQL/5.1.59" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="episodeget" values="Python.DjangoServer,JavascriptDebugSession.Remote" />
+      <project id="mysite" values="Python.DjangoServer" />
+    </group>
+    <group name="module type">
+      <project id="episodeget" values="PYTHON_MODULE" />
+      <project id="mysite" values="PYTHON_MODULE" />
+    </group>
+    <group name="file-type">
+      <project id="episodeget" values="XML,HTML,DATASOURCE_STORAGE,PLAIN_TEXT,UNKNOWN,Python" />
+      <project id="mysite" values="XML,DATASOURCE_STORAGE,Python,UNKNOWN" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="episodeget" values="PythonConfigurationType" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="episodeget" values="Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="mysite" values="Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="episodeget" values="DEFAULT" />
+      <project id="mysite" values="DEFAULT" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="episodeget" values="com.mysql.jdbc.Driver" />
+      <project id="mysite" values="com.mysql.jdbc.Driver" />
+    </group>
+    <group name="py-interpreter">
+      <project id="episodeget" values="Python 2.7.2" />
+      <project id="mysite" values="Python 2.7.2" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="NewDirectoryProjectAction.Django project" count="2" />
+      <entry feature="execute.JavascriptDebugSession.Debug" count="4" />
+      <entry feature="execute.Python.DjangoServer.Coverage" count="1" />
+      <entry feature="execute.Python.DjangoServer.Debug" count="17" />
+      <entry feature="execute.Python.DjangoServer.Run" count="20" />
+      <entry feature="execute.PythonConfigurationType.Run" count="4" />
+    </counts>
+  </component>
+</application>
+
